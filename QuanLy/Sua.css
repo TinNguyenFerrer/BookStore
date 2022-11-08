@@ -1,0 +1,62 @@
+.login-form{
+    width: 400px;
+    
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 15px;
+    border: 2px dotted #cccccc;
+    border-radius: 10px;
+}
+.input-box{
+    margin-bottom: 10px;
+    width: 100%;
+}
+.input-box input{
+    padding: 7.5px 1px;
+    width: 100%;
+    border: 1px solid #cccccc;
+    outline: none;
+}
+.btn-box{
+    text-align: center;
+    margin-top: 30px;
+}
+.left-button{
+    margin-right: 60px;
+    padding: 7.5px 15px;
+    border-radius: 2px;
+    background-color: green;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    height: 35px;
+}
+.right-button{
+    margin-left: 60px;
+    padding: 7.5px 15px;
+    border-radius: 2px;
+    background-color: green;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    height: 35px;
+}
+select{
+    
+    position: relative;
+    font-size: 15px;
+    display: flex;
+    width: 100px;
+    height: 40px;
+    line-height: 3;
+    background: #fff;
+    overflow: hidden;
+    border: 1px solid #cccccc;
+    outline: none;
+}
+.img_product_mini{
+    width: 5px;
+}
+#fileupload{
+    padding: 5px;
+}
